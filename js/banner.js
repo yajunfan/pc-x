@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2016/8/1.
- */
 var banner=document.getElementById("banner");
 var oPicture=banner.getElementsByTagName("div")[0];
 var oDiv=oPicture.getElementsByTagName("div");

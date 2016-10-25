@@ -1,6 +1,3 @@
-/**
- * Created by yangjianzhong on 16/7/22.
- */
 (function () {
     var oBox=document.getElementById("box");
     var aHead=oBox.getElementsByTagName("div")[0];

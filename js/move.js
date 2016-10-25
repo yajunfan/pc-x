@@ -1,6 +1,3 @@
-/**
- * Created by xiao lei on 2016/7/6.
- */
 (function(){
     var zhufengEffect = {
         //匀速

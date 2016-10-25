@@ -1,6 +1,3 @@
-/**
- * Created by xiao lei on 2016/6/23.
- */
 //单例模式封装
 var utils=(function(){
     var flag='getComputedStyle' in window;
